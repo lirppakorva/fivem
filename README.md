@@ -1,4 +1,4 @@
-# fivem 300 Slot (Looped ready)
+# fivem 300 Slot (Loop ready)
 Here is my expertise in the development of the fivem server as a whole.
 
 Here you will find a complete fivem server that is up and running and this is part of the screening work of my studies. So respect it with devotion as well. This fivem server does not have es_extended, so this is built to be extendedmode dependent but works like a dream.
