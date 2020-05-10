@@ -6,3 +6,7 @@ Here you will find a complete fivem server that is up and running and this is pa
 The Fivem server consists of esx as well as lirppa files that have been developed with a name of their own to serve their owners. And they are freely editable to look like their own, most of the movies are in Finnish but they can be easily translated into English by translating translate.google.com.
 
 Fivem server files are directly operational.
+
+In these files you will find the finished casino and the slot machines, blackjack, vehicles, jobs.
+
+And you will also find many new jobs, ganster gangs etc.
